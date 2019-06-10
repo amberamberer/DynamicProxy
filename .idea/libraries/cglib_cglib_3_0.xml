@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="cglib:cglib:3.0" type="repository">
+    <properties maven-id="cglib:cglib:3.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib/3.0/cglib-3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm/4.0/asm-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
